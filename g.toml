@@ -1,3 +1,7 @@
 [gpa]
 disp = "GPA"
 desc = "Grade Point Average"
+
+[gre]
+disp = "GRE"
+desc = "Graduate Record Examinations"
