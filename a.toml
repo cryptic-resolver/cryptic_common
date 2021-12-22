@@ -1,0 +1,4 @@
+[am]
+disp = "AM"
+desc = "Ante meridiem"
+see = ['PM']

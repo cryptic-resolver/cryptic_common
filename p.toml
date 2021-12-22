@@ -1,0 +1,4 @@
+[pm]
+disp = "PM"
+desc = "Post meridiem"
+see = ['AM']
