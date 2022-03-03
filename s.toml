@@ -1,3 +1,7 @@
 [sms]
 disp = "SMS"
 desc = "Short Message Service"
+
+[sig]
+disp = "SIG"
+desc = "Special Interest Group"
