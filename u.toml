@@ -1,0 +1,7 @@
+[uk.country]
+disp = "uk"
+desc = "United Kingdom"
+
+[us.country]
+disp = "us"
+desc = "United States"

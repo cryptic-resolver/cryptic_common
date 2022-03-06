@@ -1,3 +1,7 @@
 [fwiw]
 disp = "FWIW"
 desc = "for what it’s worth"
+
+[fr]
+disp = "fr"
+desc = "France"

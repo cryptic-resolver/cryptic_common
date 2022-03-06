@@ -1,3 +1,7 @@
 [doi]
 disp = "DOI"
 desc = "Degree-of-Interest ranking"
+
+[de.country]
+disp = "de"
+desc = "Germany"

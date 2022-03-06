@@ -1,3 +1,7 @@
 [ip]
 disp = "IP"
 desc = "Intellectual Property"
+
+[io.district]
+disp = "io"
+desc = "British Indian Ocean Territory"

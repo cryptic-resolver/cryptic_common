@@ -5,3 +5,7 @@ desc = "Short Message Service"
 [sig]
 disp = "SIG"
 desc = "Special Interest Group"
+
+[sg]
+disp = "sg"
+desc = "Singapore"

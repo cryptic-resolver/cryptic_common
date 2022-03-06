@@ -2,3 +2,11 @@
 disp = "AM"
 desc = "Ante meridiem"
 see = ['PM']
+
+[ar.country]
+disp = "AR"
+desc = "Argentina"
+
+[au.country]
+disp = "AU"
+desc = "Australia"

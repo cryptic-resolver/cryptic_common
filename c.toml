@@ -6,3 +6,11 @@ full = "A multinational news-based pay television channel headquartered in Atlan
 [cmu]
 disp = "CMU"
 desc = "Carnegie Mellon University"
+
+[cn.country]
+disp = "cn"
+desc = "China"
+
+[ca.country]
+disp = "ca"
+desc = "Canada"
