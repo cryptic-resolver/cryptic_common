@@ -14,3 +14,7 @@ desc = "China"
 [ca.country]
 disp = "ca"
 desc = "Canada"
+
+[ca.America]
+disp = "CA"
+desc = "California in America"

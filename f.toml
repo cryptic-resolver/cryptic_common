@@ -5,3 +5,7 @@ desc = "for what it’s worth"
 [fr]
 disp = "fr"
 desc = "France"
+
+[faq]
+disp = "FAQ"
+desc = "Frequently Asked Questions"
