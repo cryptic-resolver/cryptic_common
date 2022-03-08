@@ -1,3 +1,7 @@
 [bbc]
 disp = "BBC"
 desc = "British Broadcasting Corporation"
+
+[bmw]
+disp = "BMW"
+desc = "Bayerische Motoren Werke AG"
