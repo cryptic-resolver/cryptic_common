@@ -9,3 +9,7 @@ desc = "France"
 [faq]
 disp = "FAQ"
 desc = "Frequently Asked Questions"
+
+[fyi]
+disp = "FYI"
+desc = "For your information"
