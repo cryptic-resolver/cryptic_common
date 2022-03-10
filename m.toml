@@ -1,3 +1,7 @@
 [mit]
 disp = "MIT"
 desc = "Massachusetts Institute of Technology"
+
+[ma.America]
+disp = "MA"
+desc = "Massachusetts in America"
