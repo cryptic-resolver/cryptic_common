@@ -1,3 +1,7 @@
 [wa.America]
 disp = "WA"
 desc = "Washington State in America"
+
+[who]
+disp = "WHO"
+desc = "World Health Organization"

@@ -13,3 +13,7 @@ desc = "Frequently Asked Questions"
 [fyi]
 disp = "FYI"
 desc = "For your information"
+
+[fbi]
+disp = "FBI"
+desc = "Federal Bureau of Investigation"
