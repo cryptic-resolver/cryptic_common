@@ -5,3 +5,7 @@ desc = "Intellectual Property"
 [io.district]
 disp = "io"
 desc = "British Indian Ocean Territory"
+
+[ilstu]
+disp = "ILSTU"
+desc = "Illinois State University"
