@@ -9,3 +9,11 @@ desc = "British Indian Ocean Territory"
 [ilstu]
 disp = "ILSTU"
 desc = "Illinois State University"
+
+[ime]
+disp = "IME"
+desc = "In My Experience"
+
+[imo]
+disp = "IMO"
+desc = "In My Opinion"
