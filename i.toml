@@ -17,3 +17,9 @@ desc = "In My Experience"
 [imo]
 disp = "IMO"
 desc = "In My Opinion"
+
+["i.e."]
+disp = "i.e."
+desc = "id est"
+full = "Latin phrase for 'that is' (literally 'it is')"
+see = ['e.g.']

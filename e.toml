@@ -1,3 +1,14 @@
 [es.country]
 disp = "es"
 desc = "Spain"
+
+["e.g."]
+disp = "e.g."
+desc = "exempli gratia"
+full = "The phrase is Latin for 'for example'"
+see = ['i.e.']
+
+["etc."]
+disp = "etc."
+desc = "Et cetera"
+full = "'and the rest' in Latin"
