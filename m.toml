@@ -5,3 +5,7 @@ desc = "Massachusetts Institute of Technology"
 [ma.America]
 disp = "MA"
 desc = "Massachusetts in America"
+
+[mvp]
+disp = "MVP"
+desc = "Most Valuable Player"

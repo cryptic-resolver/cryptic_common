@@ -5,3 +5,7 @@ desc = "Degree-of-Interest ranking"
 [de.country]
 disp = "de"
 desc = "Germany"
+
+[diy]
+disp = "DIY"
+desc = "Do it yourself"

@@ -9,3 +9,7 @@ desc = "Special Interest Group"
 [sg]
 disp = "sg"
 desc = "Singapore"
+
+[sjtu]
+disp = "SJTU"
+desc = "Shanghai Jiao Tong University"
