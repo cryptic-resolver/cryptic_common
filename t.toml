@@ -5,3 +5,7 @@ desc = "Test of English as a Foreign Language"
 [tw.district]
 disp = "tw"
 desc = "Taiwan"
+
+[tldr]
+disp = "TL;DR"
+desc = "Too long; Didn't read"
