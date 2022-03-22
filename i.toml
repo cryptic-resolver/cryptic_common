@@ -18,6 +18,12 @@ desc = "In My Experience"
 disp = "IMO"
 desc = "In My Opinion"
 
+[ie]
+same = "'i.e.'"
+
+['ie.']
+same = "'i.e.'"
+
 ["i.e."]
 disp = "i.e."
 desc = "id est"

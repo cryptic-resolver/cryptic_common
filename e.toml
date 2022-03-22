@@ -2,6 +2,12 @@
 disp = "es"
 desc = "Spain"
 
+[eg]
+same = "'e.g.'"
+
+["eg."]
+same = "'e.g.'"
+
 ["e.g."]
 disp = "e.g."
 desc = "exempli gratia"
