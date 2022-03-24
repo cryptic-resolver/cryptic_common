@@ -3,7 +3,7 @@ disp = "es"
 desc = "Spain"
 
 [eg]
-same = "'e.g.'"
+same = "'eg.'"
 
 ["eg."]
 same = "'e.g.'"

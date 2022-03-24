@@ -19,7 +19,7 @@ disp = "IMO"
 desc = "In My Opinion"
 
 [ie]
-same = "'i.e.'"
+same = "'ie.'"
 
 ['ie.']
 same = "'i.e.'"
