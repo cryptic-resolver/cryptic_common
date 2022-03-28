@@ -1,3 +1,7 @@
 [kfc]
 disp = "KFC"
 desc = "Kentucky Fried Chicken"
+
+[kcl]
+disp = "KCL"
+desc = "King's College London"
