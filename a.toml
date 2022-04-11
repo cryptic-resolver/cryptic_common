@@ -1,12 +1,12 @@
 [am]
-disp = "AM"
+name = "AM"
 desc = "Ante meridiem"
 see = ['PM']
 
 [ar.country]
-disp = "AR"
+name = "AR"
 desc = "Argentina"
 
 [au.country]
-disp = "AU"
+name = "AU"
 desc = "Australia"

@@ -1,15 +1,15 @@
 [sms]
-disp = "SMS"
+name = "SMS"
 desc = "Short Message Service"
 
 [sig]
-disp = "SIG"
+name = "SIG"
 desc = "Special Interest Group"
 
 [sg]
-disp = "sg"
+name = "sg"
 desc = "Singapore"
 
 [sjtu]
-disp = "SJTU"
+name = "SJTU"
 desc = "Shanghai Jiao Tong University"

@@ -1,7 +1,7 @@
 [wa.America]
-disp = "WA"
+name = "WA"
 desc = "Washington State in America"
 
 [who]
-disp = "WHO"
+name = "WHO"
 desc = "World Health Organization"

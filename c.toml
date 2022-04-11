@@ -1,20 +1,20 @@
 [cnn]
-disp = "CNN"
+name = "CNN"
 desc = "The Cable News Network"
 full = "A multinational news-based pay television channel headquartered in Atlanta, United States. "
 
 [cmu]
-disp = "CMU"
+name = "CMU"
 desc = "Carnegie Mellon University"
 
 [cn.country]
-disp = "cn"
+name = "cn"
 desc = "China"
 
 [ca.country]
-disp = "ca"
+name = "ca"
 desc = "Canada"
 
 [ca.America]
-disp = "CA"
+name = "CA"
 desc = "California in America"

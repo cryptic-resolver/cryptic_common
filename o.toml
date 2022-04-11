@@ -1,7 +1,7 @@
 [okr]
-disp = "OKR"
+name = "OKR"
 desc = "Objectives and Key Results"
 
 [or.America]
-disp = "OR"
+name = "OR"
 desc = "Oregon State in America"

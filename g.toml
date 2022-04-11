@@ -1,7 +1,7 @@
 [gpa]
-disp = "GPA"
+name = "GPA"
 desc = "Grade Point Average"
 
 [gre]
-disp = "GRE"
+name = "GRE"
 desc = "Graduate Record Examinations"

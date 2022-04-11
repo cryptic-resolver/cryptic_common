@@ -1,5 +1,5 @@
 [es.country]
-disp = "es"
+name = "es"
 desc = "Spain"
 
 [eg]
@@ -9,12 +9,12 @@ same = "'eg.'"
 same = "'e.g.'"
 
 ["e.g."]
-disp = "e.g."
+name = "e.g."
 desc = "exempli gratia"
 full = "The phrase is Latin for 'for example'"
 see = ['i.e.']
 
 ["etc."]
-disp = "etc."
+name = "etc."
 desc = "Et cetera"
 full = "'and the rest' in Latin"

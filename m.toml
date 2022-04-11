@@ -1,11 +1,11 @@
 [mit]
-disp = "MIT"
+name = "MIT"
 desc = "Massachusetts Institute of Technology"
 
 [ma.America]
-disp = "MA"
+name = "MA"
 desc = "Massachusetts in America"
 
 [mvp]
-disp = "MVP"
+name = "MVP"
 desc = "Most Valuable Player"

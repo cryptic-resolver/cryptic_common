@@ -1,7 +1,7 @@
 [bbc]
-disp = "BBC"
+name = "BBC"
 desc = "British Broadcasting Corporation"
 
 [bmw]
-disp = "BMW"
+name = "BMW"
 desc = "Bayerische Motoren Werke AG"

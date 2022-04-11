@@ -1,11 +1,11 @@
 [doi]
-disp = "DOI"
+name = "DOI"
 desc = "Degree-of-Interest ranking"
 
 [de.country]
-disp = "de"
+name = "de"
 desc = "Germany"
 
 [diy]
-disp = "DIY"
+name = "DIY"
 desc = "Do it yourself"

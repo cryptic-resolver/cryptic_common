@@ -1,19 +1,19 @@
 [fwiw]
-disp = "FWIW"
+name = "FWIW"
 desc = "for what it’s worth"
 
 [fr]
-disp = "fr"
+name = "fr"
 desc = "France"
 
 [faq]
-disp = "FAQ"
+name = "FAQ"
 desc = "Frequently Asked Questions"
 
 [fyi]
-disp = "FYI"
+name = "FYI"
 desc = "For your information"
 
 [fbi]
-disp = "FBI"
+name = "FBI"
 desc = "Federal Bureau of Investigation"

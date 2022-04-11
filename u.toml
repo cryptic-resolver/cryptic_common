@@ -1,7 +1,7 @@
 [uk.country]
-disp = "uk"
+name = "uk"
 desc = "United Kingdom"
 
 [us.country]
-disp = "us"
+name = "us"
 desc = "United States"

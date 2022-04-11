@@ -1,7 +1,7 @@
 [kfc]
-disp = "KFC"
+name = "KFC"
 desc = "Kentucky Fried Chicken"
 
 [kcl]
-disp = "KCL"
+name = "KCL"
 desc = "King's College London"

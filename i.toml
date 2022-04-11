@@ -1,21 +1,21 @@
 [ip]
-disp = "IP"
+name = "IP"
 desc = "Intellectual Property"
 
 [io.district]
-disp = "io"
+name = "io"
 desc = "British Indian Ocean Territory"
 
 [ilstu]
-disp = "ILSTU"
+name = "ILSTU"
 desc = "Illinois State University"
 
 [ime]
-disp = "IME"
+name = "IME"
 desc = "In My Experience"
 
 [imo]
-disp = "IMO"
+name = "IMO"
 desc = "In My Opinion"
 
 [ie]
@@ -25,11 +25,11 @@ same = "'ie.'"
 same = "'i.e.'"
 
 ["i.e."]
-disp = "i.e."
+name = "i.e."
 desc = "id est"
 full = "Latin phrase for 'that is' (literally 'it is')"
 see = ['e.g.']
 
 [iirc]
-disp = "IIRC"
+name = "IIRC"
 desc = "if I recall correctly"

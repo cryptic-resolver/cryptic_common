@@ -1,4 +1,4 @@
 [pm]
-disp = "PM"
+name = "PM"
 desc = "Post meridiem"
 see = ['AM']
