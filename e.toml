@@ -11,10 +11,10 @@ same = "'e.g.'"
 ["e.g."]
 name = "e.g."
 desc = "exempli gratia"
-full = "The phrase is Latin for 'for example'"
+more = "The phrase is Latin for 'for example'"
 see = ['i.e.']
 
 ["etc."]
 name = "etc."
 desc = "Et cetera"
-full = "'and the rest' in Latin"
+more = "'and the rest' in Latin"

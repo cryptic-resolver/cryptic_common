@@ -27,7 +27,7 @@ same = "'i.e.'"
 ["i.e."]
 name = "i.e."
 desc = "id est"
-full = "Latin phrase for 'that is' (literally 'it is')"
+more = "Latin phrase for 'that is' (literally 'it is')"
 see = ['e.g.']
 
 [iirc]

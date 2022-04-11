@@ -1,7 +1,7 @@
 [cnn]
 name = "CNN"
 desc = "The Cable News Network"
-full = "A multinational news-based pay television channel headquartered in Atlanta, United States. "
+more = "A multinational news-based pay television channel headquartered in Atlanta, United States. "
 
 [cmu]
 name = "CMU"
