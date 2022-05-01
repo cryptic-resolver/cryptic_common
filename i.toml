@@ -32,4 +32,8 @@ see = ['e.g.']
 
 [iirc]
 name = "IIRC"
-desc = "if I recall correctly"
+desc = "if I Recall Correctly"
+
+[iiuc]
+name = "IIUC"
+desc = "If I Understand Correctly"
