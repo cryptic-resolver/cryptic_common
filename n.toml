@@ -10,3 +10,14 @@ desc = "National Security Agency"
 name = "n.b. or NB"
 desc = "Nota bene"
 more = "The phrase is Latin for 'note well'. In Modern English, it is used, particularly in legal papers, to draw the attention of the reader to a certain (side) aspect or detail of the subject being addressed. "
+
+[nsfw]
+name = "NSFW"
+desc = "Not safe for work"
+more = "The marked content may contain nudity, pornography, political incorrectness, profanity, slurs, violence or other potentially disturbing subject matter."
+see = 'nsfl'
+
+[nsfl]
+name = "NSFL"
+desc = "Not safe for life"
+more = "Referring to content which is so nauseating or disturbing that it might be emotionally scarring to view"
