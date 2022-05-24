@@ -5,3 +5,7 @@ desc = "Objectives and Key Results"
 [or.America]
 name = "OR"
 desc = "Oregon State in America"
+
+[op]
+name = "OP (Reddit)"
+desc = "Original Poster"
