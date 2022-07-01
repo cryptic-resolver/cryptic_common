@@ -21,3 +21,7 @@ same = "'etc.'"
 name = "etc."
 desc = "Et cetera"
 more = "'and the rest' in Latin"
+
+[eq]
+name = "EQ"
+desc = "Emotional Intelligence Quotient"

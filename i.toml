@@ -37,3 +37,7 @@ desc = "if I Recall Correctly"
 [iiuc]
 name = "IIUC"
 desc = "If I Understand Correctly"
+
+[iq]
+name = "IQ"
+desc = "Intelligence Quotient"
