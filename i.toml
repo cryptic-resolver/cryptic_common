@@ -1,7 +1,3 @@
-[ip]
-name = "IP"
-desc = "Intellectual Property"
-
 [io.district]
 name = "io"
 desc = "British Indian Ocean Territory"
