@@ -5,3 +5,7 @@ desc = "Kentucky Fried Chicken"
 [kcl]
 name = "KCL"
 desc = "King's College London"
+
+[k12]
+name = "K12"
+desc = "from kindergarten to 12th grade"

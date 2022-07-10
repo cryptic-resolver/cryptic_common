@@ -25,3 +25,7 @@ more = "'and the rest' in Latin"
 [eq]
 name = "EQ"
 desc = "Emotional Intelligence Quotient"
+
+[esi]
+name = "ESI"
+desc = "Essential Science Indicators"

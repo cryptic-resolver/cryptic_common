@@ -22,3 +22,8 @@ desc = '''
   2. Technology
   3. Engineering
   4. Maths'''
+
+[ssci]
+name = "SSCI"
+desc = "Social Sciences Citation Index"
+see = ['SCI', 'EI']
