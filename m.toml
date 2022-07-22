@@ -9,3 +9,7 @@ desc = "Massachusetts in America"
 [mvp]
 name = "MVP"
 desc = "Most Valuable Player"
+
+[maa]
+name = "MAA"
+desc = "Mathematical Association of America"
