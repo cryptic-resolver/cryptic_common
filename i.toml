@@ -37,3 +37,7 @@ desc = "If I Understand Correctly"
 [iq]
 name = "IQ"
 desc = "Intelligence Quotient"
+
+[icm]
+name = "ICM"
+desc = "International Congress of Mathematicians"
