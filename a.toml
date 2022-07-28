@@ -10,3 +10,7 @@ desc = "Argentina"
 [au.country]
 name = "AU"
 desc = "Australia"
+
+[apec]
+name = "APEC"
+desc = "Asia-Pacific Economic Cooperation"

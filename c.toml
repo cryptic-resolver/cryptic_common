@@ -18,3 +18,11 @@ desc = "Canada"
 [ca.America]
 name = "CA"
 desc = "California in America"
+
+[cnki]
+name = "CNKI"
+desc = "China National Knowledge Infrastructure"
+
+[caj]
+name = "CAJ"
+desc = "China Academic Journals"
