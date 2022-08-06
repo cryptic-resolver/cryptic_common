@@ -26,3 +26,8 @@ desc = "China National Knowledge Infrastructure"
 [caj]
 name = "CAJ"
 desc = "China Academic Journals"
+
+[cmi]
+name = "CMI"
+desc = "Clay Mathematics Institute"
+more = "claymath.org"
