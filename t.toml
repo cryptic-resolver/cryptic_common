@@ -9,3 +9,7 @@ desc = "Taiwan"
 [tldr]
 name = "TL;DR"
 desc = "Too long; Didn't read"
+
+[ted]
+name = "TED conference"
+desc = "Technology, Entertainment, Design"

@@ -2,3 +2,12 @@
 name = "QS"
 desc = "Quacquarelli Symonds"
 more = "A UK company specialising in the analysis of higher education institutions around the world."
+
+[qed]
+name = "QED"
+desc = "quod erat demonstrandum"
+more = "An initialism of the Latin phrase, meaning 'which was to be demonstrated'"
+
+["q.e.d"]
+name = "Q.E.D"
+same = "qed"
