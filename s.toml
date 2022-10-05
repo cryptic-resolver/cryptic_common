@@ -31,3 +31,7 @@ desc = '''
 name = "SSCI"
 desc = "Social Sciences Citation Index"
 see = ['SCI', 'EI']
+
+[sgi]
+name = "SGI"
+desc = "Silicon Graphics, Inc."
