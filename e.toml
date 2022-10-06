@@ -29,3 +29,7 @@ desc = "Emotional Intelligence Quotient"
 [esi]
 name = "ESI"
 desc = "Essential Science Indicators"
+
+[easa]
+name = "EASA"
+desc = "European Aviation Safety Agency"

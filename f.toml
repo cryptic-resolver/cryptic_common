@@ -17,3 +17,7 @@ desc = "For your information"
 [fbi]
 name = "FBI"
 desc = "Federal Bureau of Investigation"
+
+[faa]
+name = "FAA"
+desc = "Federal Aviation Administration"
