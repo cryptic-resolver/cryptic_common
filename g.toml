@@ -5,3 +5,7 @@ desc = "Grade Point Average"
 [gre]
 name = "GRE"
 desc = "Graduate Record Examinations"
+
+[gg]
+name = "GG"
+desc = "Good Game"

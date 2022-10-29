@@ -35,3 +35,7 @@ see = ['SCI', 'EI']
 [sgi]
 name = "SGI"
 desc = "Silicon Graphics, Inc."
+
+[sar]
+name = "SAR"
+desc = "Special Administrative Regions"
