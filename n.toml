@@ -21,3 +21,7 @@ see = 'nsfl'
 name = "NSFL"
 desc = "Not safe for life"
 more = "Referring to content which is so nauseating or disturbing that it might be emotionally scarring to view"
+
+[name]
+name = "NAmE"
+desc = "North American English"
