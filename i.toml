@@ -14,6 +14,10 @@ desc = "In My Experience"
 name = "IMO"
 desc = "In My Opinion"
 
+[imho]
+name = "IMHO"
+desc = "In My Humble Opinion"
+
 [ie]
 same = "'ie.'"
 
