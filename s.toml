@@ -1,7 +1,3 @@
-[sms]
-name = "SMS"
-desc = "Short Message Service"
-
 [sig]
 name = "SIG"
 desc = "Special Interest Group"
