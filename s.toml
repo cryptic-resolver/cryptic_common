@@ -35,3 +35,7 @@ desc = "Silicon Graphics, Inc."
 [sar]
 name = "SAR"
 desc = "Special Administrative Regions"
+
+[sat]
+name = "SAT"
+desc = "Scholastic Aptitude Test"
