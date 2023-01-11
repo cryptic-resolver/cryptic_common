@@ -9,3 +9,7 @@ desc = "Oregon State in America"
 [op]
 name = "OP (Reddit)"
 desc = "Original Poster"
+
+[ot]
+name = "OT"
+desc = "Off Topic"
