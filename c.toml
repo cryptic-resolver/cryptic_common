@@ -40,3 +40,7 @@ more = "Derived from the name Conseil européen pour la recherche nucléaire"
 [cnnic]
 name = "CNNIC"
 desc = "China Internet Network Information Center"
+
+[cip]
+name = "CIP"
+desc = "Cataloging in Publication"
