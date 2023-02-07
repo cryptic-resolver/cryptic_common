@@ -2,3 +2,7 @@
 name = "PM"
 desc = "Post meridiem"
 see = ['AM']
+
+[pov]
+name = "POV"
+desc = "Point of View"
