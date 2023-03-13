@@ -18,3 +18,7 @@ desc = "Asia-Pacific Economic Cooperation"
 [afaict]
 name = "AFAICT"
 desc = "as far as I can tell"
+
+[ama]
+name = "AMA"
+desc = "Ask Me Anything"
