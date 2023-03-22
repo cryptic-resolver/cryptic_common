@@ -1,3 +1,8 @@
 [hk.district]
 name = "hk"
 desc = "Hong Kong"
+
+[hvac]
+name = "HVAC"
+desc = "Heating, Ventilation, and Air Conditioning"
+# Category: mechanical
