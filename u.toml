@@ -5,3 +5,7 @@ desc = "United Kingdom"
 [us.country]
 name = "us"
 desc = "United States"
+
+[ucl]
+name = "UCL"
+desc = "University College London"

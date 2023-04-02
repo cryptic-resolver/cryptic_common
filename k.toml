@@ -13,3 +13,8 @@ desc = "from kindergarten to 12th grade"
 [kol]
 name = "KOL"
 desc = "Key Opinion Leader"
+
+[kth]
+name = "KTH"
+desc = "Kungliga tekniska högskolan"
+more = "KTH Royal Institute of Technology in Sweden"
