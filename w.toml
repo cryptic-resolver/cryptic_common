@@ -5,3 +5,10 @@ desc = "Washington State in America"
 [who]
 name = "WHO"
 desc = "World Health Organization"
+
+['w.r.t']
+same = "w.r.t.=>'w.r.t.'"
+
+['w.r.t.']
+name = "w.r.t."
+desc = "with respect to"
