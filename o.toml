@@ -13,3 +13,7 @@ desc = "Original Poster"
 [ot]
 name = "OT"
 desc = "Off Topic"
+
+[ocw]
+name = "OCW"
+desc = "MIT Open CourseWare"
