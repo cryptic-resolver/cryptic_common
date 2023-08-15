@@ -9,3 +9,7 @@ desc = "Germany"
 [diy]
 name = "DIY"
 desc = "Do it yourself"
+
+[dk]
+name = "dk"
+desc = "Denmark"
