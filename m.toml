@@ -17,3 +17,7 @@ desc = "Mathematical Association of America"
 [mbti]
 name = "MBTI"
 desc = "Myers-Briggs Type Indicator"
+
+[mooc]
+name = "MOOC"
+desc = "Massive Open Online Courses"
